@@ -1,6 +1,6 @@
 # AdvanceSplice
 
-AdvanceSplice is a method for accurate splice site prediction, integrating N-gram one-hot encoding and ensemble modeling. This repository contains the code and data used in the paper "AdvanceSplice: Integrating N-gram one-hot encoding and ensemble modeling for enhanced accuracy."
+AdvanceSplice is a method for accurate splice site prediction, integrating N-gram one-hot encoding and ensemble modeling. This repository contains the code and data used in the paper [AdvanceSplice: Integrating N-gram one-hot encoding and ensemble modeling for enhanced accuracy](https://www.sciencedirect.com/science/article/abs/pii/S1746809424000752).
 
 ## Table of Contents
 - [Introduction](#introduction)
