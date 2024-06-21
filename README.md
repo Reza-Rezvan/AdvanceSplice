@@ -43,18 +43,10 @@ To use AdvanceSplice, follow these steps:
 ## Usage
 
 1. Prepare your dataset in the required format (refer to the Datasets section).
-2. Run the preprocessing script to generate N-gram one-hot encoded and character-to-numerical encoded features.
-    ```bash
-    python preprocess.py
-    ```
-3. Train the ensemble models using the training script.
-    ```bash
-    python train.py
-    ```
-4. Evaluate the models using the evaluation script.
-    ```bash
-    python evaluate.py
-    ```
+2. Use the Deep_models encoder first ro encode your data (AdvanceSplice used One-hot encoding). if you want to use two or three gram data, just read data because we encode and save them in Data
+3. Train your data with deep models.
+4. Evaluate the models.
+
 
 ## Datasets
 
