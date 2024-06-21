@@ -43,9 +43,10 @@ To use AdvanceSplice, follow these steps:
 ## Usage
 
 1. Prepare your dataset in the required format (refer to the Datasets section).
-2. Use the Deep_models encoder first ro encode your data (AdvanceSplice used One-hot encoding). if you want to use two or three gram data, just read data because we encode and save them in Data
-3. Train your data with deep models.
-4. Evaluate the models.
+2. Use the Deep_models encoder first ro encode your data (AdvanceSplice used One-hot encoding). if you want to use two or three gram data, just read data because we encode and save them in Data.
+3. Use LSTM_Char2Num encoder (Char2int) to use Character-to-numerical encoding.
+4. Train your data with deep models (Deep_models or LSTM_Char2Num, based on your encoder method).
+5. Evaluate the models.
 
 
 ## Datasets
