@@ -59,7 +59,7 @@ Comparisons with existing models on datasets such as HS3D, Homo Sapiens, and A. 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+MIT License [LICENSE](LICENSE).
 
 ## Contact
 
