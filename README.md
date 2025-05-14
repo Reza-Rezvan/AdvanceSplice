@@ -57,9 +57,6 @@ The datasets used in this study include HS3D, Homo Sapiens, and A. Thaliana. Ple
 
 Comparisons with existing models on datasets such as HS3D, Homo Sapiens, and A. Thaliana indicate that AdvanceSplice identifies splice sites more effectively. Detailed results and performance metrics are provided in the paper.
 
-## License
-
-MIT License [LICENSE](LICENSE).
 
 ## Contact
 
